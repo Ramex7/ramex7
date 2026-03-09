@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working at: **Upwork** as a freelancer
+- 🔭 I’m currently working as a freelance on **Upwork**
 - 💬 Ask me about: **JavaScript, React, Node.js, Express.js**
 
 ---
@@ -51,6 +51,7 @@ An amazon clone made with plain javascript.
 ## 🌐 Connect With Me
 - LinkedIn: https://linkedin.com/in/ramex7
 - Portfolio: https://ramex-portfolio.vercel.app/
+- Upwork: https://www.upwork.com/freelancers/ramex
 
 ---
 
