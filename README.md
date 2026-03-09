@@ -33,17 +33,6 @@
 - GitHub
 - VS Code
 
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramex7&show_icons=true&theme=github_dark)
-
----
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramex7E&layout=compact&theme=github_dark)
-
----
 
 ## 📂 Featured Projects
 
