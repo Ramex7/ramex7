@@ -1,13 +1,13 @@
-# Hi there 👋 I'm [Ramadan Jamal]
+# Hi there 👋 I'm Ramadan Jamal
 
 💻 Full Stack Developer  
-🌍 Based in [Ethiopia, Addis Ababa]  
+🌍 Based in Addis Ababa, Ethiopia  
 🚀 Passionate about building web applications and learning new technologies.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working at: **[Upwork]** as a freelancer
+- 🔭 I’m currently working at: **Upwork** as a freelancer
 - 💬 Ask me about: **JavaScript, React, Node.js, Express.js**
 
 ---
